@@ -70,6 +70,8 @@ Esta página explica cómo crear un formulario de pago dinámico desde cero util
 
   Puede generar un `formToken` de prueba ingresando a la pestaña `Pruébame` dentro del siguiente link: [Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/api/playground/Charge/CreatePayment/).
 
+      ![tarjeta](/src/assets/formToken.png)
+
 * Actualice los estilos dentro de src/App.vue style:
 
   ```html
