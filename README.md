@@ -38,7 +38,7 @@ Esta página explica cómo crear un formulario de pago dinámico desde cero util
   npm install --save @lyracom/embedded-form-glue
   ```
 
-* Ejecútelo y pruébelo en minimal-example:
+* Ejecútelo y pruébelo con el comando:
 
   ```sh
   npm run serve
@@ -68,7 +68,7 @@ Esta página explica cómo crear un formulario de pago dinámico desde cero util
     const formToken = "DEMO-TOKEN-TO-BE-REPLACED";
   ```
 
-  Puede generar un `formToken` de prueba ingresando al siguiente link: [Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/api/playground/Charge/CreatePayment/).
+  Puede generar un `formToken` de prueba ingresando a la pestaña `Pruébame` dentro del siguiente link: [Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/api/playground/Charge/CreatePayment/).
 
 * Actualice los estilos dentro de src/App.vue style:
 
